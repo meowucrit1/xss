@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg">
     <foreignObject>
-        <iframe xmlns="http://www.w3.org/1999/xhtml" src="javascript:alert(location)"></iframe>
+        <iframe xmlns="http://www.w3.org/1999/xhtml" srcdoc="&lt;script&gt;alert(location)&lt;/script&gt;"></iframe>
     </foreignObject>
 </svg>
