@@ -1,1 +1,1 @@
-add initial xss commit <img src onerror=alert()> <script>alert()</script>
+SCRUM-24 add initial xss commit <img src onerror=alert()> <script>alert()</script>
